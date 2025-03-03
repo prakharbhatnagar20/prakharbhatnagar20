@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prakhar Bhatnagar and I am a Android developer proficient in Java, Kotlin and XML. Passionate about creating user-friendly mobile apps with a focus on clean code and exceptional user experiences. Ready to bring your app ideas to life.</p>
+<p align="left">My name is Prakhar Bhatnagar and I am a Software Engineer proficient in Java, Kotlin and XML. Passionate about creating user-friendly mobile apps with a focus on clean code and exceptional user experiences. Ready to bring your app ideas to life.</p>
 
 ###
 
